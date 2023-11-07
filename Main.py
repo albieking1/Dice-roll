@@ -1,4 +1,4 @@
-import(random)
+import random
 ranges = {
     "d6": (1, 6),
     "d12": (1, 12),
